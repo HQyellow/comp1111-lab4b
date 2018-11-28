@@ -1,6 +1,6 @@
 banana
 apple
 orange
-strawberrybbb
-litcgibbb
-watermelonbbb
+strawberry
+litcgi
+watermelon
