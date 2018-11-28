@@ -1,3 +1,3 @@
-bananaaaaa
-appleeee
-orangeeeee
+banana
+apple
+orange
