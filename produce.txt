@@ -1,6 +1,6 @@
 cellphone
 computer
 printer
-usbxxxxxx
+usb
 cup
-cardxxxxxxx
+card
