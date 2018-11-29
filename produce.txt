@@ -1,12 +1,5 @@
 cellphone
 computer
-printer
-usbxxxxx
-cup
-paper
-usb
-cup
-card
 paper
 usb
 cup
