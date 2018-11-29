@@ -1,6 +1,9 @@
 banana
-apple
+apple juice
 orange
 strawberry
 litcgi
 watermelon
+lemon
+passion fruit
+dragon fruit
