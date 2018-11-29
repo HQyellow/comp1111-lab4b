@@ -1,12 +1,16 @@
 cellphone
 computer
 printer
-<<<<<<< HEAD
 usbxxxxx
 cup
 paper
-=======
 usb
 cup
 card
->>>>>>> 6a2b5f5e3560181a983359b1cf8c7cbd2b4a1280
+paper
+usb
+cup
+card
+phone
+ruler
+pen
