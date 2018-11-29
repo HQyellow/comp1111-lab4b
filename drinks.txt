@@ -4,7 +4,6 @@ tea
 milky tea
 water
 coke
-coke
 red tea
 black tea
 gree tea
