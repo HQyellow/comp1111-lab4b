@@ -1,5 +1,3 @@
-kipcup
-candy
 kitcup
 bean
 ice cream
