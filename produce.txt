@@ -1,6 +1,9 @@
 cellphone
 computer
-printer
+paper
 usb
 cup
 card
+phone
+ruler
+pen
